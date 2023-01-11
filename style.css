@@ -1,0 +1,61 @@
+body {
+  border: 2px solid #13044e;
+  border-radius: 5px;
+}
+h1 {
+  color: blue;
+  text-align: center;
+  margin: 0;
+  font-size: 20px;
+}
+
+h2 {
+  color: blue;
+  text-align: left;
+  margin: 0;
+  font-size: 15px;
+}
+.content {
+  background: linear-gradient(90.4deg, #f233f6, #a427fb);
+}
+.emoji {
+  font-size: 70px;
+  font-weight: bold;
+  display: block;
+  margin: 0 auto;
+}
+.form {
+  display: block;
+  margin: 0 auto;
+  font-weight: medium;
+  text-align: center;
+}
+.search-button {
+  display: block;
+  margin: 0 auto;
+  color: #000000;
+  border-radius: 5px;
+  background-color: yellow;
+}
+.my-location {
+  display: block;
+  margin: 0 auto;
+  background-color: #c1630b;
+  color: #ffffff;
+  border-radius: 5px;
+}
+.days {
+  color: rgba(255, 0, 0, 0.829);
+}
+.weather {
+  color: #13044e;
+}
+.temp {
+  color: #0066cc;
+}
+.preci {
+  color: #4a154b;
+}
+.wind {
+  color: #865b19;
+}
